@@ -7,7 +7,7 @@ This repository includes several demonstration videos of tested cases for review
 While autonomous vehicle applications in urban areas face significant limitations, they demonstrate remarkable efficiency in controlled areas such as open-pit mines. Existing research on collaborative vehicle trajectory planning predominantly focuses on structured roads with clearly defined lanes. However, unstructured environments which characterized by dynamic conflict areas (e.g. loading areas, unloading areas and multi-phase intersections) present unique challenges distinct from urban settings.  
 
    
-﻿In these unstructured environments, the absence of designated lanes combined with overlapping vehicle paths during transportation tasks often leads to potential deadlocks. Our research addresses this critical gap by developing a robust trajectory planning solution specifically designed for high-conflict, unstructured scenarios.  
+﻿In these unstructured environments, the absence of designated lanes combined with overlapping vehicle paths during transportation tasks often leads to potential deadlocks. Our research addresses this gap by developing a robust trajectory planning solution specifically designed for high-conflict, unstructured scenarios.  
   
 
 https://github.com/user-attachments/assets/fd9fd6b3-ace6-485f-a9dc-66b71df186af  
