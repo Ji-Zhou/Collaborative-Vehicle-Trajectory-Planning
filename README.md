@@ -15,8 +15,7 @@ https://github.com/user-attachments/assets/fd9fd6b3-ace6-485f-a9dc-66b71df186af
   
 # Videos
 
-For all configurations, the line connecting the start and end points of the vehicles passes through the center of the square, representing a challenging case designed to qualitatively assess the efficiency of the proposed method. Following three figures clearly show the configuration of the tested case and effectiveness of proposed methods.    
-
+For a clearer presentation, the following videos present the planning results in the form of 2D sketches.   
 Four Vehicles and no obstacles.  
 
 
