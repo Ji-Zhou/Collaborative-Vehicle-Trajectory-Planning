@@ -1,6 +1,6 @@
 # Collaborative Vehicle Trajectory Planning
   
-This repository includes several demonstration videos of tested cases for review purposes. The complete codebase will be made publicly available upon completion of the peer-review process.  
+This repository includes several demonstration videos of tested cases for review purposes. The complete code will be made publicly available upon completion of the peer-review process.  
   
 # Overview
 
