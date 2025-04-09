@@ -4,9 +4,8 @@ This repository includes several demonstration videos of tested cases for review
   
 # Overview
 
-While autonomous vehicle applications in urban areas face significant limitations, they demonstrate remarkable efficiency in controlled areas such as open-pit mines. Existing research on collaborative vehicle trajectory planning predominantly focuses on structured roads with clearly defined lanes. However, unstructured environments which characterized by dynamic conflict areas (e.g. loading areas, unloading areas and multi-phase intersections) present unique challenges distinct from urban settings.  
-﻿
-In these unstructured environments, the absence of designated lanes combined with overlapping vehicle paths during transportation tasks often leads to potential deadlocks. Our research addresses this critical gap by developing a robust trajectory planning solution specifically designed for high-conflict, unstructured scenarios.  
+While autonomous vehicle applications in urban areas face significant limitations, they demonstrate remarkable efficiency in controlled areas such as open-pit mines. Existing research on collaborative vehicle trajectory planning predominantly focuses on structured roads with clearly defined lanes. However, unstructured environments which characterized by dynamic conflict areas (e.g. loading areas, unloading areas and multi-phase intersections) present unique challenges distinct from urban settings.    
+﻿In these unstructured environments, the absence of designated lanes combined with overlapping vehicle paths during transportation tasks often leads to potential deadlocks. Our research addresses this critical gap by developing a robust trajectory planning solution specifically designed for high-conflict, unstructured scenarios.  
   
 
 https://github.com/user-attachments/assets/fd9fd6b3-ace6-485f-a9dc-66b71df186af  
@@ -16,7 +15,7 @@ https://github.com/user-attachments/assets/fd9fd6b3-ace6-485f-a9dc-66b71df186af
   
 # Videos
 
-For all configurations, the line connecting the start and end points of the vehicles passes through the center of the square, representing a challenging case designed to qualitatively assess the efficiency of the proposed method. Following three figures clearly show the configuration of the tested case and effectiveness of proposed methods.  
+For all configurations, the line connecting the start and end points of the vehicles passes through the center of the square, representing a challenging case designed to qualitatively assess the efficiency of the proposed method. Following three figures clearly show the configuration of the tested case and effectiveness of proposed methods.    
 
 Four Vehicles and no obstacles.  
 
@@ -40,7 +39,8 @@ https://github.com/user-attachments/assets/dedddc2d-7fcc-4d38-875e-6599cd29e0ba
 
 
 
-Currently, the maximum number of autonomous vehicles deployed in a single mining area does not exceed 30. Testing with 16 trucks is sufficient to represent the real-world scale while sufficiently challenging..  
+Current mining operations typically deploy fewer than 30 autonomous vehicles per site, making our 16-vehicle tests representative while sufficiently challenging.
+
 
 
 
